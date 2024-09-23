@@ -16,5 +16,9 @@ Database Setup: Import the COVID-19 datasets (coviddeaths and covidvaccinations)
 Filter Data: Start by using the initial queries to filter and view raw COVID-19 data.
 Metric Analysis: Utilize follow-up queries to calculate important metrics such as death percentages, infection rates, and vaccination coverage.
 Aggregate Insights: Leverage common table expressions (CTEs) and views to aggregate, rank, and gain deeper insights from the data.
+## Dashboard 
+Based on the data analysis above we have created a dashboard in tableau for better understanding and visualization. 
+https://public.tableau.com/app/profile/shreya.biswas2117/viz/CovidDashboard_17247409026550/Dashboard1
+(Click to see my dashboard)
 ## Contributing:
 Contributions are welcome! You can enhance the SQL queries or propose new analyses. Feel free to submit pull requests or open issues for discussion.
